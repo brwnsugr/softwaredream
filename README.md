@@ -1,6 +1,6 @@
 # softwaredream
-크게, 네 개의 구조로 나눠서 문제를 설계 했습니다.
-작동 방법은  
+
+먼저, 작동 방법은  
 1. input.js 파일에, 형식에 맞는 input 데이터를 넣은 후, 
 2. Terminal에서 해당 디렉토리로 이동한 후 "node main" 을 입력하여, node 엔진을 통해 실행할 수 있습니다. 
 
@@ -31,6 +31,8 @@
     { vacancy: true, id: 0 },
     { vacancy: false, id: 9 },
     { vacancy: true, id: 0 } ] ]
+
+코드 구성은 크게, 네 개의 구조로 나눠서 문제를 설계 했습니다.
 
 1. input.js ->input 데이터가 들어가는 파일
 2. main.js -> 터미널에서 실행을 하기 위한 메인 파일 
