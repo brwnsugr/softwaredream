@@ -1,4 +1,4 @@
-# softwaredream
+# softwaredream(숙박 손님 예약 배치 프로그램)
 
 먼저, 작동 방법은  
 1. input.js 파일에, 형식에 맞는 input 데이터를 넣은 후, 
